@@ -1,4 +1,16 @@
-Hi, I’m @MRS-Joe, I’m *interested* in <b>game development</b>, from <b>programming</b>, to <b>story writing</b>, <b>music</b>, and even <b>graphic design</b>. I’m *currently learning* <b>Python</b>,
-using <b>Processing</b> in my <b>Comp-Sci 30</b> class. *Currently*, there <b>isn't anything</b> particular I'm <b>looking to work on</b> outside of class right now. If you want to *contact me*,
-I would try <b>Twitter</b>. My <b>@</b> should be in my <b>bio</b>.<br>
-<b>*WARNING*</b>, I have no idea if, or how, I get notifications for things like DMs and @'s on Twitter, so that's that.
+Hi, I’m **@MRS-Joe**<br>
+<br>
+**interests:** <br>
+  -_game development_<br>
+  -story writing<br>
+  -music<br>
+  -graphic design<br>
+<br>
+**currently learning:**<br>
+  -_Python_ using _Processing_ in my Comp-Sci class<br>
+<br>
+Currently, there isn't anything particular I'm looking to work on outside of class.<br>
+<br>
+**contact:**<br>
+Twitter? maybe?<br>
+_**WARNING**_, I have no idea if, or how, I get notifications for things like DMs and @'s on Twitter, so that's that.
